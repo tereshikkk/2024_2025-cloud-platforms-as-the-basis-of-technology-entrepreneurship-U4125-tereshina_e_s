@@ -5,7 +5,7 @@ Course: [Cloud platforms as the basis of technology entrepreneurship](https://it
 Year: 2024/2025  
 Group: U4125  
 Author: Tereshina Elina Sergeevna  
-Lab: Lab1  
+Lab: Lab2  
 Date of create: 29.04.2025  
 Date of finished:  
 ## Ход работы  
@@ -36,7 +36,7 @@ Date of finished:
 Я зашла в настройки и поменяла порт с 8080 на 8090.  
 ![8](/img/2.8.png)  
   
-Сервис был успешно зепущен.  
+Сервис был успешно запущен.  
 ![9](/img/2.9.png)  
   
 ## Переключение трафика  
