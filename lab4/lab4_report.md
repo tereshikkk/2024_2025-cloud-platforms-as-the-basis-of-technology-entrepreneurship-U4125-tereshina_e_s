@@ -1,4 +1,4 @@
-# Лабораторная работа №3 «Разработка инфраструктуры MVP AI приложения»  
+# Лабораторная работа №4 «Разработка инфраструктуры MVP AI приложения»  
 University: [ITMO University](https://itmo.ru/ru/)  
 Faculty: [FTMI](https://itmo.ru/ru/viewfaculty/87/fakultet_tehnologicheskogo_menedzhmenta_i_innovaciy.htm)  
 Course: [Cloud platforms as the basis of technology entrepreneurship](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/)  
